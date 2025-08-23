@@ -39,4 +39,3 @@ Check out my repositories for some of my latest work!
 
 ---
 
-*Let's use data to grow a better future!*
