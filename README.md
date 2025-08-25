@@ -17,10 +17,10 @@ I'm an agronomist with hands-on experience in agricultural production, now focus
 
 ---
 
-## 🐍 Favorite Projects
+## 🐍 About my work
 
-My passion projects are built with Python.
-Check out my repositories for some of my latest work!
+My passion projects are built with Python. I´m making my first steps on this platform, exploring my python an sql skills. Check out my repositories for some of my recent work!
+I plan to upload more projects in the future, I would like them to be about agriculture
 
 ---
 
